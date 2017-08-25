@@ -1,0 +1,21 @@
+{
+  "name": "myfirstwebserver",
+  "version": "1.0.0",
+  "description": "den er for vild",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gatlingjakob/myfirstjsserver.git"
+  },
+  "author": "jakse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gatlingjakob/myfirstjsserver/issues"
+  },
+  "homepage": "https://github.com/Gatlingjakob/myfirstjsserver#readme", 
+  "engines" : {"node" : "0.12.x"}
+}
