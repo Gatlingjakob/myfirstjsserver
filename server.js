@@ -10,4 +10,4 @@ res.write('{"title" : "Hello JSON Web API","text" : "Text fra min API" }');
 res.end();
 });
 
-server.listen(3003);
+server.listen(process.env.PORT || 3003);
